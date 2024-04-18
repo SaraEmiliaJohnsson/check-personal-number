@@ -53,25 +53,3 @@ function isValidPersonalNumber(personalNumber: string): boolean {
 
 	return claculatedControlDigit === lastDigit;
 }
-
-// document.getElementById('form')?.addEventListener('submit', function (event) {
-// 	event.preventDefault();
-
-// 	const input = (document.getElementById('input') as HTMLInputElement)?.value;
-
-// 	const messageElement = document.getElementById('message');
-
-// 	if (!input || !messageElement) {
-// 		console.error('Something broke!');
-// 		return;
-// 	}
-
-// 	if (!isValidPersonalNumber(input)) {
-// 		console.log('Personnumret är ogiltigt.');
-// 		messageElement.innerText =
-// 			'Felaktigt personnummer. Vänligen skriv in ett giltigt personnummer på 10 siffror.';
-// 	} else {
-// 		console.log('Personnumret är giltigt.');
-// 		messageElement.innerText = 'Personnumret är giltigt.';
-// 	}
-// });
