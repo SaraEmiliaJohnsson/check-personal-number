@@ -31,7 +31,7 @@
 142C:\Users\sara8\OneDrive\Skrivbord\TypeScript\check-personal-number\check-personal-number\node_modules\caniuse-lite\data\features\web-serial.js133578156602429346 0
 119C:\Users\sara8\OneDrive\Skrivbord\TypeScript\check-personal-number\check-personal-number\node_modules\dotenv-expand\lib133578533653882581 1
 131C:\Users\sara8\OneDrive\Skrivbord\TypeScript\check-personal-number\check-personal-number\node_modules\regenerator-runtime\README.md133578156575464223 0
-93C:\Users\sara8\OneDrive\Skrivbord\TypeScript\check-personal-number\check-personal-number\dist133579329123073293 1
+93C:\Users\sara8\OneDrive\Skrivbord\TypeScript\check-personal-number\check-personal-number\dist133579344911010883 1
 155C:\Users\sara8\OneDrive\Skrivbord\TypeScript\check-personal-number\check-personal-number\node_modules\@swc\helpers\_\_interop_require_wildcard\package.json133578156593134231 0
 133C:\Users\sara8\OneDrive\Skrivbord\TypeScript\check-personal-number\check-personal-number\node_modules\@parcel\workers\src\cpuCount.js133578156579416355 0
 133C:\Users\sara8\OneDrive\Skrivbord\TypeScript\check-personal-number\check-personal-number\node_modules\caniuse-lite\data\regions\AX.js133578156584487221 0
@@ -48,7 +48,7 @@
 99C:\Users\sara8\OneDrive\Skrivbord\TypeScript\check-personal-number\check-personal-number\.gitignore133579315306690390 0
 151C:\Users\sara8\OneDrive\Skrivbord\TypeScript\check-personal-number\check-personal-number\node_modules\@swc\core\bindings\binding_core_wasm\package.json133578156577534158 0
 142C:\Users\sara8\OneDrive\Skrivbord\TypeScript\check-personal-number\check-personal-number\node_modules\@swc\helpers\esm\_array_like_to_array.js133578156587610323 0
-97C:\Users\sara8\OneDrive\Skrivbord\TypeScript\check-personal-number\check-personal-number\index.ts133579329117629930 0
+97C:\Users\sara8\OneDrive\Skrivbord\TypeScript\check-personal-number\check-personal-number\index.ts133579345157839415 0
 132C:\Users\sara8\OneDrive\Skrivbord\TypeScript\check-personal-number\check-personal-number\node_modules\type-fest\source\asyncify.d.ts133578156575677714 0
 157C:\Users\sara8\OneDrive\Skrivbord\TypeScript\check-personal-number\check-personal-number\node_modules\css-select\node_modules\domutils\lib\esm\feeds.d.ts.map133578156580554398 0
 144C:\Users\sara8\OneDrive\Skrivbord\TypeScript\check-personal-number\check-personal-number\node_modules\css-tree\cjs\syntax\node\AtrulePrelude.cjs133578156576175147 0
@@ -61,7 +61,7 @@
 141C:\Users\sara8\OneDrive\Skrivbord\TypeScript\check-personal-number\check-personal-number\node_modules\json-parse-even-better-errors\README.md133578156575187019 0
 126C:\Users\sara8\OneDrive\Skrivbord\TypeScript\check-personal-number\check-personal-number\node_modules\semver\functions\diff.js133578156578400871 0
 133C:\Users\sara8\OneDrive\Skrivbord\TypeScript\check-personal-number\check-personal-number\node_modules\caniuse-lite\data\regions\MO.js133578156597665067 0
-99C:\Users\sara8\OneDrive\Skrivbord\TypeScript\check-personal-number\check-personal-number\index.html133578276097367396 0
+99C:\Users\sara8\OneDrive\Skrivbord\TypeScript\check-personal-number\check-personal-number\index.html133579332206739936 0
 139C:\Users\sara8\OneDrive\Skrivbord\TypeScript\check-personal-number\check-personal-number\node_modules\lightningcss-win32-x64-msvc\README.md133578156573986662 0
 137C:\Users\sara8\OneDrive\Skrivbord\TypeScript\check-personal-number\check-personal-number\node_modules\htmlnano\lib\modules\minifyJson.mjs133578156587413763 0
 153C:\Users\sara8\OneDrive\Skrivbord\TypeScript\check-personal-number\check-personal-number\node_modules\@swc\helpers\cjs\_class_private_field_loose_key.cjs133578156581998667 0
@@ -228,7 +228,7 @@
 120C:\Users\sara8\OneDrive\Skrivbord\TypeScript\check-personal-number\check-personal-number\node_modules\term-size\index.js133578156576599127 0
 118C:\Users\sara8\OneDrive\Skrivbord\TypeScript\check-personal-number\check-personal-number\node_modules\css-tree\LICENSE133578156572038913 0
 122C:\Users\sara8\OneDrive\Skrivbord\TypeScript\check-personal-number\check-personal-number\node_modules\node-addon-api\tools133578533694759842 1
-127C:\Users\sara8\OneDrive\Skrivbord\TypeScript\check-personal-number\check-personal-number\dist\check-personal-number.3464ddca.js133579329122014933 0
+127C:\Users\sara8\OneDrive\Skrivbord\TypeScript\check-personal-number\check-personal-number\dist\check-personal-number.3464ddca.js133579332209964073 0
 145C:\Users\sara8\OneDrive\Skrivbord\TypeScript\check-personal-number\check-personal-number\node_modules\caniuse-lite\data\features\passwordrules.js133578156598522832 0
 115C:\Users\sara8\OneDrive\Skrivbord\TypeScript\check-personal-number\check-personal-number\node_modules\color-convert133578533578498953 1
 118C:\Users\sara8\OneDrive\Skrivbord\TypeScript\check-personal-number\check-personal-number\node_modules\svgo\lib\xast.js133578156582703913 0
@@ -611,7 +611,7 @@
 162C:\Users\sara8\OneDrive\Skrivbord\TypeScript\check-personal-number\check-personal-number\node_modules\htmlnano\docs\versioned_sidebars\version-1.1.1-sidebars.json133578156584598591 0
 122C:\Users\sara8\OneDrive\Skrivbord\TypeScript\check-personal-number\check-personal-number\node_modules\posthtml-render\dist133578533705919471 1
 126C:\Users\sara8\OneDrive\Skrivbord\TypeScript\check-personal-number\check-personal-number\node_modules\weak-lru-cache\README.md133578156577131038 0
-115C:\Users\sara8\OneDrive\Skrivbord\TypeScript\check-personal-number\check-personal-number\dist\index.242b51c6.js.map133579329122755642 0
+115C:\Users\sara8\OneDrive\Skrivbord\TypeScript\check-personal-number\check-personal-number\dist\index.242b51c6.js.map133579344910996819 0
 121C:\Users\sara8\OneDrive\Skrivbord\TypeScript\check-personal-number\check-personal-number\node_modules\svgo\lib\types.d.ts133578156582581395 0
 153C:\Users\sara8\OneDrive\Skrivbord\TypeScript\check-personal-number\check-personal-number\node_modules\css-select\lib\pseudo-selectors\subselects.d.ts.map133578156585700034 0
 127C:\Users\sara8\OneDrive\Skrivbord\TypeScript\check-personal-number\check-personal-number\node_modules\svgo\plugins\prefixIds.js133578156585590475 0
@@ -1417,7 +1417,7 @@
 138C:\Users\sara8\OneDrive\Skrivbord\TypeScript\check-personal-number\check-personal-number\node_modules\lightningcss\node\composeVisitors.js133578156577493795 0
 154C:\Users\sara8\OneDrive\Skrivbord\TypeScript\check-personal-number\check-personal-number\node_modules\css-select\node_modules\domutils\lib\esm\legacy.d.ts133578156585362285 0
 127C:\Users\sara8\OneDrive\Skrivbord\TypeScript\check-personal-number\check-personal-number\node_modules\semver\functions\clean.js133578156574125881 0
-116C:\Users\sara8\OneDrive\Skrivbord\TypeScript\check-personal-number\check-personal-number\dist\index.3a01df49.css.map133579329122227977 0
+116C:\Users\sara8\OneDrive\Skrivbord\TypeScript\check-personal-number\check-personal-number\dist\index.3a01df49.css.map133579332209792308 0
 128C:\Users\sara8\OneDrive\Skrivbord\TypeScript\check-personal-number\check-personal-number\node_modules\semver\functions\coerce.js133578156575387764 0
 133C:\Users\sara8\OneDrive\Skrivbord\TypeScript\check-personal-number\check-personal-number\node_modules\caniuse-lite\data\regions\SG.js133578156599677008 0
 129C:\Users\sara8\OneDrive\Skrivbord\TypeScript\check-personal-number\check-personal-number\node_modules\semver\functions\compare.js133578156577346784 0
@@ -3560,7 +3560,7 @@
 144C:\Users\sara8\OneDrive\Skrivbord\TypeScript\check-personal-number\check-personal-number\node_modules\css-select\lib\pseudo-selectors\pseudos.js133578156580071664 0
 125C:\Users\sara8\OneDrive\Skrivbord\TypeScript\check-personal-number\check-personal-number\node_modules\@parcel\workers\src\web133578533483723884 1
 133C:\Users\sara8\OneDrive\Skrivbord\TypeScript\check-personal-number\check-personal-number\node_modules\caniuse-lite\data\regions\LC.js133578156597190447 0
-111C:\Users\sara8\OneDrive\Skrivbord\TypeScript\check-personal-number\check-personal-number\dist\index.242b51c6.js133579329122732486 0
+111C:\Users\sara8\OneDrive\Skrivbord\TypeScript\check-personal-number\check-personal-number\dist\index.242b51c6.js133579344910976824 0
 149C:\Users\sara8\OneDrive\Skrivbord\TypeScript\check-personal-number\check-personal-number\node_modules\css-select\lib\pseudo-selectors\subselects.d.ts133578156587197064 0
 147C:\Users\sara8\OneDrive\Skrivbord\TypeScript\check-personal-number\check-personal-number\node_modules\caniuse-lite\data\features\resource-timing.js133578156599391947 0
 136C:\Users\sara8\OneDrive\Skrivbord\TypeScript\check-personal-number\check-personal-number\node_modules\css-select\lib\esm\attributes.d.ts133578156586339276 0
@@ -5862,6 +5862,6 @@
 129C:\Users\sara8\OneDrive\Skrivbord\TypeScript\check-personal-number\check-personal-number\node_modules\.bin\update-browserslist-db133578156605437121 0
 133C:\Users\sara8\OneDrive\Skrivbord\TypeScript\check-personal-number\check-personal-number\node_modules\.bin\update-browserslist-db.cmd133578156605437121 0
 118C:\Users\sara8\OneDrive\Skrivbord\TypeScript\check-personal-number\check-personal-number\dist\personnummer.3464ddca.js133578246370381425 0
-131C:\Users\sara8\OneDrive\Skrivbord\TypeScript\check-personal-number\check-personal-number\dist\check-personal-number.3464ddca.js.map133579329122140324 0
-112C:\Users\sara8\OneDrive\Skrivbord\TypeScript\check-personal-number\check-personal-number\dist\index.3a01df49.css133579329122204418 0
-104C:\Users\sara8\OneDrive\Skrivbord\TypeScript\check-personal-number\check-personal-number\dist\index.html133579329123073293 0
+112C:\Users\sara8\OneDrive\Skrivbord\TypeScript\check-personal-number\check-personal-number\dist\index.3a01df49.css133579332209700649 0
+131C:\Users\sara8\OneDrive\Skrivbord\TypeScript\check-personal-number\check-personal-number\dist\check-personal-number.3464ddca.js.map133579332209997304 0
+104C:\Users\sara8\OneDrive\Skrivbord\TypeScript\check-personal-number\check-personal-number\dist\index.html133579332210678973 0

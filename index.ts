@@ -16,7 +16,7 @@ button?.addEventListener('click', (e) => {
 	if (!isValid) {
 		console.log('Personnumret är ogiltigt.');
 		messageElement.innerText =
-			'Felaktigt personnummer. Vänligen skriv in ett giltigt personnummer på 10 siffror.';
+			'Felaktigt personnummer. Vänligen skriv in ett giltigt personnummer.';
 	} else {
 		console.log('Personnumret är giltigt.');
 		messageElement.innerText = 'Personnumret är giltigt.';
@@ -26,6 +26,12 @@ button?.addEventListener('click', (e) => {
 });
 
 function isValidPersonalNumber(personalNumber: string): boolean {
+	personalNumber = personalNumber.replace(/\D/g, '');
+
+	if (personalNumber.length > 10) {
+		personalNumber = personalNumber.slice(2);
+	}
+
 	if (personalNumber.length !== 10) {
 		return false;
 	}
